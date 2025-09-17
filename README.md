@@ -9,9 +9,9 @@ This React app contains two main components:
 - **Hero**: The hero section with heading, text, and call-to-action buttons.
 
 Install dependencies:
-npm install
-# or
-yarn install
+
+npm install or yarn install
+
 
 Contributing
 
